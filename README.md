@@ -1,5 +1,6 @@
 
 # Dual Microcontroller-Based Door Locker Security System Using Password Authentication
+![Door Lock System Simulator - Proteus 8 Professional - Schematic Capture 12_10_2024 11_09_35 PM](https://github.com/user-attachments/assets/6e0a6544-71f4-456d-8520-46d6dedadda7)
 
 ## Project Overview
 
