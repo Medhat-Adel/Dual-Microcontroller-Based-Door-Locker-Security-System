@@ -1,6 +1,3 @@
-Here’s a GitHub post draft for your project:
-
----
 
 # Dual Microcontroller-Based Door Locker Security System Using Password Authentication
 
@@ -47,14 +44,6 @@ This project is a **Dual Microcontroller-Based Door Locker Security System** des
 
 I would like to express my sincere gratitude to **Engineer Mohamed Tarek**, whose invaluable support and guidance helped me successfully complete this project. His insights were crucial in overcoming challenges and achieving the desired results.
 
-## Getting Started
-
-1. Clone the repository:  
-```bash
-git clone https://github.com/Medhat-Adel/Dual-Microcontroller-Based-Door-Locker-Security-System.git
-```
-
-2. Follow the setup instructions in the README file to configure the hardware and software.
 
 ## Conclusion
 
